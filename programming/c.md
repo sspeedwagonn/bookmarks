@@ -13,6 +13,7 @@
 - [Microsoft C Docs](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 - [DevDocs C Docs](https://devdocs.io/c/)
 - [Algorithms Design](https://www.ime.usp.br/~pf/algorithms/)
+- [CS50 C Manual](https://manual.cs50.io/)
 ## Interactive Courses
 - [Learn-C](https://www.learn-c.org/)
 - [Codecademy C Courses](https://www.codecademy.com/catalog/language/c)
